@@ -4,11 +4,8 @@ games_list = (f.readlines())
 red_cubes = 12
 green_cubes = 13
 blue_cubes = 14
-available_cubes = 39
 
 game_IDs = []
-numbers = []
-colours = []
 IDs_possible_games = []
 
 
