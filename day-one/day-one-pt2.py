@@ -19,8 +19,6 @@ for item in new_calibration_document:
             item = item.replace(key, value)
     newest_calibration_document.append(item)
 
-print(newest_calibration_document)
-
 for item in newest_calibration_document:
     digits = []
     for element in item:
